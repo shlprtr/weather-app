@@ -6,7 +6,7 @@
     "description":"Current weather of Cookeville,Tennessee, United States of America",
     "icons": [
         {
-            "src" : "web app icon.png",
+            "src" : "icon.png",
             "sizes" : "48x48"
         }
     ]
