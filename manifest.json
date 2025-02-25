@@ -1,18 +1,14 @@
 {
     "name":"Cookeville Weather App",
     "short_name": "Weather",
-    "theme_color": "#ffcbe4",
-    "background": "#fa99ca",
     "display": "standalone",
-    "scope": "/",
-    "start_url": "https://github.com/shlprtr/weather-app",
+    "start_url": "/weather-app/",
     "description":"Current weather of Cookeville,Tennessee, United States of America",
-    "orientation": "any",
-    // "icons": [
-    //     {
-    //         "src" : 
-    //         "sizes" :
-    //     }
-    // ]
+    "icons": [
+        {
+            "src" : "web app icon.png",
+            "sizes" : "48x48"
+        }
+    ]
 
 }
